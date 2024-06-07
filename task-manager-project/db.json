@@ -1,0 +1,130 @@
+{
+  "todos": [
+    {
+      "userId": 1,
+      "id": "6",
+      "title": "Reasoned Pleasure",
+      "completed": true
+    },
+    {
+      "title": "Where by Grasp",
+      "completed": false,
+      "id": "8"
+    },
+    {
+      "id": "ca87",
+      "title": "New task",
+      "completed": true
+    },
+    {
+      "id": "e870",
+      "title": "Lunch ",
+      "completed": false
+    },
+    {
+      "id": "4a3a",
+      "title": "Testing ",
+      "completed": false
+    },
+    {
+      "id": "2ec0",
+      "title": "Dinner ",
+      "completed": true
+    },
+    {
+      "id": "c3ec",
+      "title": "Test",
+      "completed": true
+    },
+    {
+      "title": "Test24",
+      "completed": true,
+      "id": "6a95"
+    },
+    {
+      "id": "2e32",
+      "title": "Test3",
+      "completed": false
+    },
+    {
+      "id": "c278",
+      "title": "video ",
+      "completed": false
+    },
+    {
+      "id": "5028",
+      "title": "test task",
+      "completed": true
+    },
+    {
+      "title": "Visittt",
+      "completed": true,
+      "id": "117c"
+    },
+    {
+      "title": "office meeting now 😀",
+      "completed": false,
+      "id": "cc28"
+    },
+    {
+      "title": "new tssk",
+      "completed": true,
+      "id": "ac7c"
+    },
+    {
+      "id": "1306",
+      "title": "New task ",
+      "completed": false
+    },
+    {
+      "id": "332d",
+      "title": "School 🏫",
+      "completed": true
+    },
+    {
+      "id": "f88c",
+      "title": "Test test",
+      "completed": false
+    },
+    {
+      "title": "Laptop",
+      "completed": true,
+      "id": "4bd0"
+    },
+    {
+      "id": "ba7c",
+      "title": "working on proj",
+      "completed": true
+    },
+    {
+      "id": "15a6",
+      "title": "xyz",
+      "completed": false
+    },
+    {
+      "id": "142b",
+      "title": "New task ",
+      "completed": true
+    },
+    {
+      "id": "96ac",
+      "title": "Nlghv",
+      "completed": false
+    },
+    {
+      "id": "bab8",
+      "title": "Xyz testing",
+      "completed": false
+    },
+    {
+      "id": "3957",
+      "title": "new user",
+      "completed": false
+    },
+    {
+      "id": "3ca9",
+      "title": "test",
+      "completed": true
+    }
+  ]
+}

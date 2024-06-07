@@ -1,0 +1,126 @@
+//tasks styling
+
+import {StyleSheet} from 'react-native';
+
+const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    backgroundColor: '#fff',
+  },
+  headerCentered: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    marginHorizontal: 10,
+    alignItems: 'center',
+    // borderWidth: 1,
+  },
+  listIconContainer: {
+    width: 50,
+    height: 50,
+    elevation: 5,
+    shadowColor: '#000',
+    borderRadius: 50,
+    alignItems: 'center',
+    justifyContent: 'center',
+    backgroundColor: '#fff',
+  },
+  title: {
+    fontSize: 20,
+    marginVertical: 20,
+    fontWeight: '500',
+    textTransform: 'capitalize',
+    color: '#000',
+  },
+  card: {
+    // borderWidth: 1,
+    marginVertical: 10,
+    marginHorizontal: 10,
+    borderRadius: 10,
+    padding: 15,
+    // borderColor: '#d7d7d7',
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+  },
+  tasks: {
+    textTransform: 'capitalize',
+    fontSize: 14,
+  },
+  taskContainer: {
+    maxWidth: '70%',
+  },
+  addBtnContainer: {
+    padding: 15,
+    marginBottom: 10,
+    width: '80%',
+    alignSelf: 'center',
+    borderRadius: 30,
+    alignItems: 'center',
+    justifyContent: 'center',
+    backgroundColor: '#fff',
+    marginVertical: 10,
+    // borderWidth: 1,
+    // borderColor: '#d7d7d7',
+    shadowColor: '#000',
+    elevation: 4,
+  },
+  btnTxt: {
+    fontSize: 16,
+    color: '#000',
+    fontWeight: '500',
+  },
+  modalSize: {
+    width: '80%',
+    // borderWidth: 1,
+    height: 200,
+    borderRadius: 10,
+    shadowColor: '#000',
+    elevation: 5,
+    backgroundColor: '#fff',
+    padding: 20,
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  modalCentered: {
+    justifyContent: 'center',
+    flex: 1,
+    alignItems: 'center',
+  },
+  inputField: {
+    borderWidth: 1,
+    borderColor: '#d3d3d3',
+    borderRadius: 10,
+    padding: 15,
+    width: '100%',
+    fontSize: 16,
+    color: '#000',
+  },
+  modalBtnCentered: {
+    marginVertical: 20,
+    flexDirection: 'row',
+  },
+  addBtnModal: {
+    backgroundColor: '#a7c957',
+    width: 100,
+    height: 50,
+    borderRadius: 30,
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  modalBtnText: {
+    color: '#fff',
+    fontSize: 18,
+  },
+  cancelBtnModal: {
+    width: 100,
+    height: 50,
+    borderRadius: 30,
+    marginRight: 10,
+    backgroundColor: '#c1121f',
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  iconsCentered: {
+    flexDirection: 'row',
+  },
+});
+export default styles;
